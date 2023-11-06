@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
 //            }
         });
 
-
         // Assuming webView is your WebView object.
         String callLogData = "";// Retrieve and process call log data.
         String jsCode = "displayCallLog(" + callLogData + ");";
